@@ -1,5 +1,21 @@
 # Vehicle Management System
 
+Java-Vehicle-Management-System
+│
+├── README.md
+│
+├── Vehicle.java
+├── Car.java
+├── Bike.java
+├── Truck.java
+├── ElectricCar.java
+├── Main.java
+│
+├── Java_AbstractClass_Assignment.pdf
+├── Vehicle_Management_System_Report.pdf
+│
+└── Output_Screenshot.png AND Output.pdf
+
 ## Objective
 To implement Abstract Classes, Inheritance, Method Overriding, and Polymorphism in Java.
 
