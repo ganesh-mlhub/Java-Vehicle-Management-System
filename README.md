@@ -44,6 +44,47 @@ Design a Vehicle Management System where different vehicles share common propert
 - Polymorphism
 - Constructors
 
+## Output
+=============================================
+   VEHICLE MANAGEMENT SYSTEM
+=============================================
+Brand: Toyota          | Speed: 80 km/h
+Fuel Efficiency : 6.25 km/l
+Sound           : Vroom Vroom
+
+Brand: Royal Enfield   | Speed: 60 km/h
+Fuel Efficiency : 7.50 km/l
+Sound           : Vroom Vroom
+
+Brand: Tata Truck      | Speed: 40 km/h
+Fuel Efficiency : 3.75 km/l
+Sound           : Horn Blows!
+
+=============================================
+   ALL VEHICLES (ArrayList iteration)
+=============================================
+Brand: Toyota          | Speed: 80 km/h
+Vehicle Type      : Car
+Fuel Efficiency   : 6.25 km/l
+Sound             : Vroom Vroom
+─────────────────────────────────────────────
+Brand: Royal Enfield   | Speed: 60 km/h
+Vehicle Type      : Bike
+Fuel Efficiency   : 7.50 km/l
+Sound             : Vroom Vroom
+─────────────────────────────────────────────
+Brand: Tata Truck      | Speed: 40 km/h
+Vehicle Type      : Truck
+Fuel Efficiency   : 3.75 km/l
+Sound             : Horn Blows!
+─────────────────────────────────────────────
+Brand: Tesla Model 3   | Speed: 120 km/h
+Vehicle Type      : Electric Car
+Fuel Efficiency   : 55.63 km/l
+Sound             : Silent Hum
+─────────────────────────────────────────────
+
+
 ## Conclusion
 The Vehicle Management System demonstrates the implementation of Java Abstract Classes and Object-Oriented Programming concepts. The project shows how abstraction, inheritance, and polymorphism help create reusable and maintainable code.
 
