@@ -48,6 +48,6 @@ Design a Vehicle Management System where different vehicles share common propert
 The Vehicle Management System demonstrates the implementation of Java Abstract Classes and Object-Oriented Programming concepts. The project shows how abstraction, inheritance, and polymorphism help create reusable and maintainable code.
 
 ## Author
-Ganesh Bhusare
-BE Artificial Intelligence & Data Science
+Ganesh Bhusare ,
+BE Artificial Intelligence & Data Science ,
 Adsul's Technical Campus
